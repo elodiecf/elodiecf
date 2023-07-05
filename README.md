@@ -7,3 +7,6 @@
 ## Mis Repositorios
 [Mi Repositorio de prueba](https://github.com/elodiecf/myfirstrepository/blob/main/hello.py) Este es mi primer repositorio.
 
+# My Github Statistics
+[! [Hua's github stats](https://github-readme-stats.vercel.app/api?username=elodiecf&show_icons=true&theme=dark)](https://github.com/elodiecf/github-readme-stats)
+

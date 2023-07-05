@@ -6,7 +6,3 @@
 
 ## Mis Repositorios
 [Mi Repositorio de prueba](https://github.com/elodiecf/myfirstrepository/blob/main/hello.py) Este es mi primer repositorio.
-
-### Contact:
-[![Gmail Badge] (https://img.shields,io/badge/-elodiecreativefit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elodiecreativefit@gmail.com)](mailto:elodiecreativefit@gmail.com)
-
